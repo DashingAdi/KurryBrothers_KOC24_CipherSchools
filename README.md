@@ -2,10 +2,10 @@
 
 <br><br>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/D3FaltXD/kabab-and-kurry)
-![GitHub stars](https://img.shields.io/github/stars/D3FaltXD/kabab-and-kurry)
-![GitHub forks](https://img.shields.io/github/forks/D3FaltXD/kabab-and-kurry)
-[![Twitter Follow](https://img.shields.io/twitter/follow/G2Ahri?style=social)](https://twitter.com/intent/follow?screen_name=G2Ahri)
+![GitHub repo size](https://img.shields.io/github/repo-size/DashingAdi/Kabab-Curry)
+![GitHub stars](https://img.shields.io/github/stars/DashingAdi/Kabab-Curry)
+![GitHub forks](https://img.shields.io/github/forks/DashingAdi/Kabab-Curry)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DashingAdi2?style=social)](https://twitter.com/intent/follow?screen_name=DashingAdi2)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-sayan-lpu/)
 
 <br>
